@@ -6,6 +6,7 @@ plugins {
 android {
     namespace = "alex.m.emptyproject"
     compileSdk = 34
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "alex.m.emptyproject"
